@@ -2,7 +2,7 @@
 Legal Info
 ----------------
 
-Old version of "Bookworm" code created (by Z80ASMer) before 10th December 2023. Game was an MSX DEV '21 coding competition entry by Z80 ASMer. 
+Old version of "Bookworm" code created (by Z80ASMer) before 10th December 2021. Game was an MSX DEV '21 coding competition entry by Z80 ASMer. 
 
 Game Description
 --------------------------
