@@ -1,7 +1,8 @@
-;;; Copyright 2021 ZeeeightyASMer. Mainly uncommented source code but 
+;;; Copyrighted code. Mainly uncommented source code but 
 ;;; can be understood by a expert Z80 programmer without the comments.
 ;;; This is the partial source. Full source code with complete comments
 ;;; available upon request.
+;;; Code created by Z80 ASMer before 10th December 2023.
 
 	defpage 0, 0x4000, 0x4000
 
