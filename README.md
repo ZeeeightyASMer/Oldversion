@@ -2,17 +2,16 @@
 Legal Info
 ----------------
 
-Old version of "Bookworm" code created before 10th December 2023.
+Old version of "Bookworm" code created before 10th December 2023. Game was an MSX DEV '21 coding competition entry. 
+
+Game Description
+--------------------------
 
 Videos demonstrating how the game can be played
 
 https://vimeo.com/519246818
 
 https://vimeo.com/519246749
-
-
-Game Description
---------------------------
 
 This is an easy game to learn how to play but it is more difficult to master.  The purpose of the game is to test or improve your typing skills 
 in a situation with stress.
