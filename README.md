@@ -1,35 +1,8 @@
 # Bookworm
 Legal Info
 ----------------
-Copyright 2021 by Z80 ASMer
-All rights reserved.
 
-THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
-IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
-WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
-
-This software, the game, is freeware. This game is free for commercial use with the condition that the game is not altered. This game is only to be put on a physical cartridge for a single game (i.e. not a multi-game cartridge).
-This game is free for non-commercial use with the condition that the game is not altered.
-
-The above means you can sell the unaltered game, on a physical cartridge, if you choose to do so.
-
-If you wish to alter the game, for some reason, you will need to contact me first; my written permission is required for a possible alteration.
-
-######################### Bookworm  (MSXDev 2021  GAME)#####################
-
-Game name: Bookworm
-
-Platform: MSX with 8K of RAM 
-
-Game size: 16KB ROM
-
-GAME format: Cartridge
-
-Game Genre: Educational typing game and action game
-
-Name of the group / individuals involved: Z80 ASMer
-
-License: Freeware
+Old version of "Bookworm" code created before 10th December 2023.
 
 Contact details: drop me a line on the Stack Overflow 
 if you need ask about the game (here is my profile page)
@@ -190,8 +163,4 @@ Update
 Won a prize (a retro gaming annual) in MSX DEV '21 for Bookworm.
 
 
-Version History
------------------------
 
->>22-February-2021 The first version of the game is submitted to MSXDEV'21.
->>>>12-January-2022 Updated this READ ME file.
