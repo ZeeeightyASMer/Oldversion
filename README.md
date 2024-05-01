@@ -4,11 +4,11 @@ Legal Info
 
 Old version of "Bookworm" code created before 10th December 2023.
 
-Contact details: drop me a line on the Stack Overflow 
-if you need ask about the game (here is my profile page)
+Videos demonstrating how the game can be played
 
+https://vimeo.com/519246818
 
-https://stackoverflow.com/users/15210223/z80asmer
+https://vimeo.com/519246749
 
 
 Game Description
